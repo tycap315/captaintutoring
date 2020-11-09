@@ -21,6 +21,7 @@ body{background-color:rgb(169,169,169)}
 h1, p{
 	text-align:center;
 	color:rgb(255,255,255);
+	font-family: "Playfair Display" , sans-serif;
 }
 p.contact{
 	font-size:20px;
