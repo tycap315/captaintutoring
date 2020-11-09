@@ -8,6 +8,14 @@ body, html {height: 100%; margin: 0;}
 	background-size: cover;
 	position: relative;
 }
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: local('Playfair Display'), local('Playfair Display'), url(https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
 .logo{position: absolute;}
 body{background-color:rgb(169,169,169)}
 h1, p{
