@@ -13,8 +13,8 @@ body{margin-bottom:20px;}
 h1, p{
 	text-align:center;
 }
-body {
-    padding-bottom: 50px;
+p.last{
+	margin-bottom:10%;
 }
 p {margin-left: 10%;margin-right: 10%;}
 @media only screen and (max-device-width: 1300px) {
