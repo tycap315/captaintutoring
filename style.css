@@ -29,4 +29,8 @@ p {margin-left: 10%;margin-right: 10%;}
     /* add parallax for larger screens */
     background-attachment: scroll;
   }
+p.main{
+	margin-left:0%;
+	margin-right:0%;
+	}
 }
