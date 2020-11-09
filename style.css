@@ -9,7 +9,7 @@ body, html {height: 100%; margin: 0;}
 	position: relative;
 }
 .logo{position: absolute;}
-body{margin-bottom:20px;}
+body{background-color:rgb(169,169,169)}
 h1, p{
 	text-align:center;
 }
