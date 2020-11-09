@@ -14,7 +14,7 @@ h1, p{
 	text-align:center;
 }
 p.last{
-	margin-bottom:10%;
+	margin-bottom:5%;
 }
 p {margin-left: 10%;margin-right: 10%;}
 @media only screen and (max-device-width: 1300px) {
