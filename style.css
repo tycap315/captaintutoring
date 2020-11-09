@@ -9,6 +9,7 @@ body, html {height: 100%; margin: 0;}
 	background-size: cover;
 	position: relative;
 }
+.logo{position: absolute;}
 body{margin-bottom:20px;}
 h1, p{
 	text-align:center;
